@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing React deployment to Github pages
+          Testing React Live chanegs
         </p>
         <a
           className="App-link"
